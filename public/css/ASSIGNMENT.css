@@ -1,0 +1,304 @@
+* {
+    margin : 0px;
+    padding : 0px;
+
+ }
+
+
+.collapse{
+    margin-right: 130vh;
+}
+.ro{
+    margin-right: 22vh;
+    color: lightblue;
+}
+.vou{
+    position: sticky;
+    top: 0;
+z-index: 10;
+background-color: aliceblue;
+
+
+}
+
+
+.po{
+    color:blue;
+    font-style: italic;
+}
+.Ima{
+height: 5vh;
+}
+.ima2{
+    margin-top: 20px;
+  
+    width: 40vh;
+   height: 60vh;
+    position: relative;
+    left: -20px;
+}
+.solution{
+    margin-top: 20px;
+    width: 40vh;
+   height: 40vh;
+    position: relative;
+    left: -20px;
+    border-radius: 5vh;
+}
+.ima3{
+    margin-top: 20px;
+  
+    width: 40vh;
+   height: 40vh;
+    position: relative;
+    left: -20px;
+}
+
+.mb-3{
+    background-color: blue;
+    border-radius: 10px;
+    width: 80%;
+    margin-left: 10px;
+}
+
+.fig{
+    color: blue;
+    font-size: 30px;
+}
+
+.si{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid black;
+    height: 10vh;
+    
+}
+.wi{
+    width: 38vh;
+    border-right: none;
+}
+
+
+
+
+
+.first input{
+    border-radius: 10px;
+}
+
+.parah{
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+
+
+
+.first{
+    display: flex;
+}
+.easy{
+    font-size: px;
+    color: black;
+}
+.ah{
+    color: blue;
+    font-size: 70px;
+}
+
+
+/*-------------form---------------*/
+.btn-secondary{
+    
+    border-radius: 20px;
+}
+
+.pf{
+font-size: 15px;
+background-color: none;
+}
+  
+/*-------------container 2---------------*/
+.di2{
+    background-color: whitesmoke;
+    height: 58vh;
+    margin-top: 20vh;
+}
+
+.sim{
+    margin-top: 2vh;
+    text-align: center;
+}
+
+.patners{
+ height: 12vh;   
+ width: 25vh;
+ background:  whitesmoke;
+ margin: 20px;
+ margin-left: 10px;
+}
+
+.patner{
+    height: 5vh;   
+    width: 10vh;
+    background: whitesmoke;
+    margin: 10px;
+    margin-left: 10px;
+   }
+
+   .patne{
+    height: 10vh;   
+    width: 10vh;
+    background:  whitesmoke;
+    margin: 10px;
+    margin-left: 10px;
+   }
+
+
+   /*-------------container 3---------------*/
+   .cont3{
+       display: flex;
+       margin-top: 12px;
+      padding-left: 18vh;     
+   }
+
+.btn-secondary{
+    background-color: blue;
+    color: white;
+font-weight: bold;
+margin: 10px;
+}
+.genuiuebutton{
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+  border-radius: 15px;
+  font-weight: bold;
+  padding: 1vh;
+}
+
+.sreamlinediv{
+    position: relative;
+    top: 40vh;
+}
+
+.usercont{
+    width: 85%;
+    
+}
+
+
+.blackdiv{
+ 
+    position: relative;
+    top: 33vh;
+}
+
+
+
+.num{
+    background-color: blue;
+    width: 4vh;
+    color: white;
+    border-radius: 4vh;
+    position: relative;
+    right: 4vh;
+}
+ .blackcont{
+    width: 83%;
+    border-left: 1px solid grey;
+    border-bottom: 1px solid grey;
+    margin: 5px;
+ }
+
+ .partdi{
+    width: 87%;
+ }
+ .partdi3{
+    
+    position: relative;
+    top: 25vh;
+ }
+
+ .geniuediv{
+    position: relative;
+ top: 35vh;
+ }
+ .plandiv{
+    position: relative;
+ top: 30vh;
+ background-color: blue;
+ color: white;
+ height: 25vh;
+ padding: 20px;
+ }
+ .but2{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+  position: relative;
+  left: -12vh;
+    padding: 1vh;
+    font-weight: bold;
+   
+}
+
+.planh3{
+    position: relative;
+    right: 5vh;
+   
+}
+
+.down{
+   margin-top: 10vh;
+   text-transform:uppercase;
+}
+
+.pic6{
+    width: 100%;
+    height: 40vh;
+}
+
+.easydiv{
+  
+    position: relative;
+    top: 32vh;
+}
+.blue{
+    color: blue;
+    font-size: xx-large;
+}
+
+.controlp{
+    color: blue;
+    margin-top: 10vh;
+}
+
+.solutionh4{
+   color: blue;
+}
+
+b{
+    color: blue;
+}
+
+.easydiv2{
+    margin-top: 40vh;
+}
+
+.movesales{
+    position: relative;
+    right: 20vh;
+    top: 5vh;
+}
+.sign{
+background-color: black;
+position: relative;
+top: -8.9vh;
+
+margin-top: 3vh;
+}
+.form-control{
+    width: 38vh;
+}
