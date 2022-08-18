@@ -230,7 +230,7 @@ margin: 10px;
  top: 30vh;
  background-color: blue;
  color: white;
- height: 25vh;
+ height: 28vh;
  padding: 20px;
  }
  .but2{
@@ -294,11 +294,15 @@ b{
 }
 .sign{
 background-color: black;
-position: relative;
-top: -8.9vh;
-
-margin-top: 3vh;
 }
+.signindiv{
+    display: flex;
+   
+}
+
 .form-control{
     width: 38vh;
+    margin-top: 10px;
 }
+
+
